@@ -1,4 +1,4 @@
-"# VenueProject" 
+#VenueProject
 
 An Android application that records the name address and opening time of night clubs. The application will be called MusicPro
 
