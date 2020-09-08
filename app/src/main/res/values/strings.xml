@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MusicPro</string>
+    <string name="venue_button">Venues</string>
+    <string name="map_button">Map</string>
+    <string name="name_label">Venue Name</string>
+    <string name="address_label">Venue Address</string>
+    <string name="opening_time_label">Opening Time</string>
+    <string name="done_button">Done</string>
+    <string name="send_button">SEND INVITATION</string>
+    <string name="delete_button">Delete</string>
+    <string name="new_venue">New Venue</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="delete_venue">Delete Venue?</string>
+    <string name="warning">Warning</string>
+    <string name="incomplete">Venue details are incomplete</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="email_button">Send Invitation</string>
+    <string name="invitation">Invitation </string>
+    <string name="chooser">Send email</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="email_invitation_body_text">
+        You are invited to %1$s tonight at %2$s.
+    </string>
+
+</resources>
